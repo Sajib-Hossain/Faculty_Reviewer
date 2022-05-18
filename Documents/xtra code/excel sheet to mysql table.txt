@@ -1,0 +1,13 @@
+First make excel to csv
+
+workbench > edit connection > advance > others > paste ( OPT_LOCAL_INFILE=1 )
+
+in mysql command line clint
+select your database and run
+SET GLOBAL local_infile=1;
+
+LOAD DATA LOCAL INFILE "D:/EDU/Projects/Faculty-Reviewer-For-NSUers/Faculty info/Faculty info.csv" INTO TABLE frapp.faculty
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(initaial, name, department, pro_link);

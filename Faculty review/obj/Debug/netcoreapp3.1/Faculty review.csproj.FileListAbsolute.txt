@@ -1,0 +1,118 @@
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.exe
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.deps.json
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.runtimeconfig.json
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.runtimeconfig.dev.json
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.dll
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.pdb
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.AssemblyReference.cache
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Form1.resources
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Login.resources
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Profile.resources
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Properties.Resources.resources
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.GenerateResource.cache
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.AssemblyInfoInputs.cache
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.AssemblyInfo.cs
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.CoreCompileInputs.cache
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.dll
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.pdb
+C:\Git\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.genruntimeconfig.cache
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.exe
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.deps.json
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.runtimeconfig.json
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.runtimeconfig.dev.json
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.pdb
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.AssemblyReference.cache
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Form1.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Login.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Profile.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Properties.Resources.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Registration.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.GenerateResource.cache
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.AssemblyInfoInputs.cache
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.AssemblyInfo.cs
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.CoreCompileInputs.cache
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.CopyComplete
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.dll
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.pdb
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.genruntimeconfig.cache
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Edit.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.exe
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.deps.json
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.runtimeconfig.json
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.runtimeconfig.dev.json
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.pdb
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\MySql.Data.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.AssemblyReference.cache
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Edit.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Form1.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Login.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Profile.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Properties.Resources.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Registration.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Search.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.GenerateResource.cache
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.AssemblyInfoInputs.cache
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.AssemblyInfo.cs
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.CoreCompileInputs.cache
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.CopyComplete
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.dll
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.pdb
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.genruntimeconfig.cache
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Search.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.EvaluateFaculty.resources
+I:\c#\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Rating.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.exe
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.deps.json
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.runtimeconfig.json
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.runtimeconfig.dev.json
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Faculty review.pdb
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.AssemblyReference.cache
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Edit.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Form1.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Login.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Profile.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Properties.Resources.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Rating.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Registration.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Search.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.GenerateResource.cache
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.AssemblyInfoInputs.cache
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.AssemblyInfo.cs
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.CoreCompileInputs.cache
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.csproj.CopyComplete
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.dll
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.pdb
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty review.genruntimeconfig.cache
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Rating.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Evaluate.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.Evaluate.resources
+E:\CSE299\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.cgpacalc.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.cgpacalc.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.addfaculty.resources
+D:\EDU\Projects\Faculty-Reviewer-For-NSUers\Faculty review\obj\Debug\netcoreapp3.1\Faculty_review.notify.resources
